@@ -1,3 +1,9 @@
 ![DanBot Hosting](/Assets/Images/DanBot-Hosting-Banner.png)
 
-Free, Fast, and Reliable.
+## Links
+
+* [Discord Server](https://discord.gg/dbh)
+* [Website](https://danbot.host)
+* [Panel](https://panel.danbot.host)
+
+----
