@@ -1,1 +1,3 @@
-DanBot-Hosting: Free, Fast, and Reliable.
+###DanBot-Hosting: 
+
+Free, Fast, and Reliable.
