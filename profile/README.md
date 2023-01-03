@@ -1,6 +1,6 @@
 ![DanBot Hosting](/Assets/Images/DanBot-Hosting-Banner.png)
 
-## Links
+# Links
 
 ----
 * [Discord Server](https://discord.gg/dbh)
