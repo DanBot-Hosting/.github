@@ -9,5 +9,6 @@
 
 # Projects:
 
-* Coming Soon!
+* [Pterodactyl Eggs](https://github.com/DanBot-Hosting/pterodactyl-eggs)
+  - Custom build Pterodactyl Eggs for DBH.
 
