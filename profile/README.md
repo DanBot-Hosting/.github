@@ -5,7 +5,6 @@
 * [Website](https://danbot.host)
 * [Panel](https://panel.danbot.host)
 * [Status Page](https://status.danbot.host)
-* [Uptime Page](https://uptime.danbot.host)
 
 # Projects:
 
