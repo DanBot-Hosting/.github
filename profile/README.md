@@ -16,4 +16,4 @@
 * [DBH Docs](https://github.com/DanBot-Hosting/DBH-Docs)
   - Open sourced documentation site for DBH.
 * [DBH-Daemon](https://github.com/DanBot-Hosting/DBH-Daemon)
- - Daemon that runs in the background of the Nodes allowing REST API requests to execute functions.
+  - Daemon that runs in the background of the Nodes allowing REST API requests to execute functions.
