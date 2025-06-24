@@ -5,7 +5,7 @@
 * [Service Status](https://service.danbot.host)
 * [Uptime](https://uptime.danbot.host)
 
-# Projects:
+# OSS Projects:
 
 * [Pterodactyl Eggs](https://github.com/DanBot-Hosting/pterodactyl-eggs)
   - Custom build Pterodactyl Eggs for DBH.
@@ -17,3 +17,5 @@
   - Open sourced documentation site for DBH.
 * [DBH-Daemon](https://github.com/DanBot-Hosting/DBH-Daemon)
   - Daemon that runs in the background of the Nodes allowing REST API requests to execute functions.
+* [DBH Convoy Panel Bot](https://github.com/DanBot-Hosting/Convoy-Panel-Bot)
+  - Discord bot created to assist staff with VPS account management.
