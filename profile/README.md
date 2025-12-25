@@ -1,4 +1,4 @@
-# DanBot Hosting LTD <img src="https://cdn.discordapp.com/icons/639477525927690240/cb186c5eda22b335848b613d0a5d489b.webp" alt="Logo" width="40" align="right" />
+# <img src="https://cdn.discordapp.com/icons/639477525927690240/cb186c5eda22b335848b613d0a5d489b.webp" alt="Logo" width="40" align="left" /> DanBot Hosting LTD
 
 Welcome to the **DanBot Hosting LTD** official GitHub organization!
 
