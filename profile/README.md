@@ -14,15 +14,6 @@ We’re passionate about making hosting accessible to everyone — whether you�
 
 ---
 
-## 🚀 What you’ll find here
-
-On this GitHub organization, you’ll find some of the open-source projects and tools we build and maintain, such as:
-- Our custom bots and automation tools
-- Websites and dashboards
-- Custom Docker images and Pterodactyl eggs
-
----
-
 ## 📂 Open Source Projects
 
 Here are some of the projects we maintain:
@@ -36,7 +27,7 @@ Here are some of the projects we maintain:
 - [**DBH Beta Bot**](https://github.com/DanBot-Hosting/discord-bot)  
   🧪 A newer Discord bot written in TypeScript with Slash Commands for various utilities.
 
-- [**DBH Docs**](https://github.com/DanBot-Hosting/DBH-Docs)  
+- [**DBH Docs**](https://github.com/DanBot-Hosting/Documentation-Site)  
   📖 Open-source documentation site for DBH.
 
 - [**DBH Daemon**](https://github.com/DanBot-Hosting/DBH-Daemon)  
